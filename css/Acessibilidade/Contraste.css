@@ -1,0 +1,501 @@
+body.contraste,
+body.contraste .gov-header, /**Remover ??*/
+body.contraste .aces-header,
+/**body.contraste .gov-header .circle-border, circ não é usado botões removidos da barra de aces.*/
+body.contraste .gov-bar-container,
+body.contraste .col-gov-bar-left,
+body.contraste .col-gov-bar-center .col-gov-bar-name,
+body.contraste .header-bar-container .col-gov-bar-content .zone-header,
+body.contraste .header-bar-container,
+body.contraste .navbar-mobile,
+body.contraste .navbar-mobile .navbar-toggle .icon-bar,
+body.contraste .navbar-header-mobile.open-search .search-mobile .search-form .input-group-btn .btn-default.btn-close-search,
+body.contraste .cbp-spmenu-left,
+body.contraste .cbp-spmenu-left.menu-open,
+body.contraste .cbp-spmenu h3,
+body.contraste .cbp-spmenu a:hover,
+body.contraste .widget-aside-first .menu>li>a,
+body.contraste .widget-aside-first .menu li.dropdown.open,
+body.contraste .widget-aside-first .menu li.dropdown.open a.dropdown-toggle,
+body.contraste .widget-aside-first .menu li.dropdown .dropdown-menu li a:hover,
+body.contraste .widget-mobile-menu-header .menu li.dropdown .dropdown-menu li a:hover,
+body.contraste .footer-wrapper,
+body.contraste .footer-bar-container .col-gov-bar-left,
+body.contraste .footer-bar-container .col-gov-bar-right,
+body.contraste .footer-bar-container .col-gov-bar-center-right,
+body.contraste .footer-bar-container .col-gov-bar-center .col-gov-bar-name,
+body.contraste .footer-bar-container .col-gov-bar-center .col-gov-bar-logo,
+body.contraste .contact-info,
+body.contraste .bar-red-footer,
+body.contraste .footer-bar-container .col-gov-bar-center .footer-contact-info,
+body.contraste .scroll-to-fixed-fixed .gov-header-accessibility,
+body.contraste .scroll-to-fixed-fixed.fixed-top-header,
+body.contraste .carousel-slider .carousel-caption,
+body.contraste .carousel-inner,
+body.contraste .carousel-news .top-bar,
+body.contraste .content-items-wrapper .items-wrapper .crsl-item .item-carousel,
+body.contraste .content-items-wrapper .items-wrapper .item-carousel .date-item-carousel,
+body.contraste .bg-color-element,
+body.contraste .partners-item .thumbnail,
+body.contraste .tag-title,
+body.contraste .pager li>a,
+body.contraste .pager li>span,
+body.contraste .default-widget .btn-default,
+body.contraste .panel-group-downloads .panel .panel-heading,
+body.contraste .panel-group-downloads .panel .panel-collapse,
+body.contraste .listade-contatos .panel .panel-collapse .panel-body,
+body.contraste .table thead,
+body.contraste .table-hover>tbody>tr:hover>td,
+body.contraste .table-hover>tbody>tr:hover>th,
+body.contraste .table-striped>tbody>tr:nth-child(odd)>td,
+body.contraste .table-striped>tbody>tr:nth-child(odd)>th,
+body.contraste .btn-default,
+body.contraste .content-header .published,
+body.contraste header .author,
+body.contraste .pgwSlideshow,
+body.contraste .pgwSlideshow .ps-list,
+body.contraste .photographer,
+body.contraste .legend-photo,
+body.contraste .table .title-row,
+body.contraste .filter-licitacao,
+body.contraste .credits,
+body.contraste .alert,
+body.contraste .list-services .service-item,
+body.contraste #col-gov-bar-center-id .row-navigation,
+body.contraste .btn-primary,
+body.contraste .event-description,
+body.contraste .agenda-item-container,
+body.contraste .modal-content {
+    background-color: #000;
+    background-image: none;
+    color: #fff !important
+}
+
+body.contraste thead th,
+body.contraste li.central-content-item a,
+body.contraste h1.item-media,
+body.contraste .h1.item-media,
+body.contraste h2.item-media,
+body.contraste .h2.item-media,
+body.contraste h3.item-media,
+body.contraste .h3.item-media {
+    background-color: #000
+}
+
+body.contraste h1,
+body.contraste h2,
+body.contraste h3,
+body.contraste h4,
+body.contraste h5,
+body.contraste h6,
+body.contraste .h1,
+body.contraste .h2,
+body.contraste .h3,
+body.contraste .h4,
+body.contraste .h5,
+body.contraste .h6,
+body.contraste .carousel-news .carousel-description-vertical .date-item-carousel,
+body.contraste .album-wrapper .album-item .date-album,
+body.contraste .list-content-item .published,
+body.contraste .title-content span,
+body.contraste .dynamic-form label>span,
+body.contraste .dynamic-form .legend-required span,
+body.contraste .filter-licitacao,
+body.contraste .filter-licitacao label,
+body.contraste .event-description b,
+body.contraste .loading-image-calendar,
+body.contraste .modal-form-licitacao .title-licitacao-modal {
+    color: #fff !important
+}
+
+body.contraste a,
+body.contraste .gov-header .circle-border,
+body.contraste .col-gov-bar-navigation .menu li a,
+body.contraste .navbar-header-mobile ul.accessibility-mobile>li>a,
+body.contraste .navbar-header-mobile.open-search .search-mobile .search-form .input-group-btn .btn-default.btn-close-search,
+body.contraste .cbp-spmenu-left a,
+body.contraste .cbp-spmenu a:hover,
+body.contraste .widget-aside-first .menu>li>a,
+body.contraste .widget-aside-first .menu li.dropdown.open,
+body.contraste .widget-aside-first .menu li.dropdown.open a.dropdown-toggle,
+body.contraste .widget-aside-first .menu li.dropdown .dropdown-menu li a,
+body.contraste .widget-aside-first .menu li.dropdown .dropdown-menu li a:hover,
+body.contraste .widget-mobile-menu-header .menu li.dropdown .dropdown-menu li a:hover,
+body.contraste .footer-wrapper a,
+body.contraste .footer-wrapper a:hover,
+body.contraste .footer-wrapper .container-items-menu ul.list-items-menu li a.item-menu,
+body.contraste .footer-wrapper .container-items-menu>li>a.item-menu,
+body.contraste .scroll-to-fixed-fixed .col-gov-bar-navigation .menu a,
+body.contraste .scroll-to-fixed-fixed .gov-header-accessibility .gov-header a,
+body.contraste a h1,
+body.contraste a h2,
+body.contraste a h3,
+body.contraste a h4,
+body.contraste a h5,
+body.contraste a h6,
+body.contraste a .h1,
+body.contraste a .h2,
+body.contraste a .h3,
+body.contraste a .h4,
+body.contraste a .h5,
+body.contraste a .h6,
+body.contraste .content-items-wrapper .items-wrapper .item-carousel .title-item-carousel a,
+body.contraste .bg-color-element a,
+body.contraste .bg-color-element a:hover,
+body.contraste .bg-color-element a:active,
+body.contraste .bg-color-element a:focus,
+body.contraste .partners-item .thumbnail a,
+body.contraste .album-wrapper .album-item .title-album a,
+body.contraste .album-wrapper .album-item .title-album a:hover,
+body.contraste .overlay a.mybutton,
+body.contraste .pager li>a,
+body.contraste .bg-color-element .default-widget .btn-default,
+body.contraste .bg-color-element .default-widget .btn-default:focus,
+body.contraste .default-widget .btn-default,
+body.contraste .video-caption .video-title a,
+body.contraste .fa.video-play,
+body.contraste .table thead,
+body.contraste .btn-default,
+body.contraste .list-content-item .title-list a,
+body.contraste .panel-group-downloads .content-item-licitacao .panel-heading a.btn-download-licitacao,
+body.contraste .close:hover,
+body.contraste .close:focus,
+body.contraste .item-category-service .logo-service i.prodesticons,
+body.contraste .list-services .service-item a,
+body.contraste .list-services .service-item .prodesticons,
+body.contraste .btn-fullscreen-image,
+body.contraste .btn-fullscreen-image:hover,
+body.contraste .btn-fullscreen-image:focus,
+body.contraste .btn-fullscreen-image:active,
+body.contraste .btn-primary,
+body.contraste .close,
+body.contraste .content-control .manage-actions a,
+body.contraste .title-service a:hover,
+body.contraste .learn-more-service,
+body.contraste .title-service,
+body.contraste a.jqtree_common.jqtree-title.jqtree-title-folder,
+body.contraste li.central-content-item a {
+    color: #fff333 !important;
+    border-color: #fff333;
+    text-decoration: underline
+}
+
+body.contraste .gov-menu-accessibility a:hover,
+body.contraste .scroll-to-fixed-fixed .gov-header-accessibility .gov-header .gov-menu-accessibility a:hover,
+body.contraste .search-form .input-group-btn .btn-default,
+body.contraste .navbar-header-mobile.open-search .search-mobile .search-form .input-group-btn .btn-default,
+body.contraste .navbar-mobile .navbar-toggle,
+body.contraste .navbar-mobile .navbar-toggle:hover,
+body.contraste .navbar-mobile .navbar-toggle:focus,
+body.contraste .btn-search-mobile,
+body.contraste .btn-search-mobile:hover,
+body.contraste .btn-search-mobile:focus,
+body.contraste .cbp-spmenu a:active,
+body.contraste .cbp-spmenu .active a,
+body.contraste .cbp-spmenu .active a:hover,
+body.contraste .widget-aside-first .menu>li.current>a,
+body.contraste .widget-aside-first .menu>li.active>a,
+body.contraste .widget-aside-first .menu>li>a:hover,
+body.contraste .widget-aside-first .menu li.dropdown .dropdown-menu li.active a,
+body.contraste .widget-aside-first .menu li.dropdown .dropdown-menu li.active a:hover,
+body.contraste .widget-aside-first .menu li.dropdown .dropdown-menu li.active a:focus,
+body.contraste .cbp-spmenu a:active,
+body.contraste .cbp-spmenu .active a,
+body.contraste .cbp-spmenu .active a:hover,
+body.contraste .widget-mobile-menu-header .menu li.dropdown .dropdown-menu li.active a:hover,
+body.contraste .oc-social-icon a span,
+body.contraste .oc-social-icon a:hover span,
+body.contraste #scrollUp,
+body.contraste .carousel-indicators li,
+body.contraste .carousel-slider .carousel-control .fa,
+body.contraste .content-items-wrapper .items-wrapper .item-carousel .learn-more a,
+body.contraste .pager li>a:hover,
+body.contraste .pager li>a:focus,
+body.contraste .pager li>a.jp-current,
+body.contraste .widget-aside-first .menu li .dropdown-toggle.active,
+body.contraste .list-licitacoes .item-licitacao .painel-ativo .btn-download-licitacao,
+body.contraste .service-icon,
+body.contraste li.central-content-item a:hover,
+body.contraste li.central-content-item a:focus,
+body.contraste li.central-content-item a:active {
+    background-color: #fff333;
+    color: #000 !important
+}
+
+body.contraste .panel-group-downloads .content-item-licitacao .panel-heading.painel-ativo a.btn-download-licitacao,
+body.contraste .service-icon .fa,
+body.contraste .icon-item {
+    color: #000 !important
+}
+
+body.contraste .carousel-indicators li.active {
+    background-color: #fff
+}
+
+body.contraste .navbar-mobile,
+body.contraste .navbar-header-mobile.open-search .search-mobile .search-form .input-group-btn .btn-default,
+body.contraste .navbar-header-mobile.open-search .search-mobile .search-form .input-group-btn .btn-default.btn-close-search,
+body.contraste .separate-boxes>.bg-color-element,
+body.contraste .panel-group-downloads .panel .content-item-licitacao .panel-heading,
+body.contraste .slide .bg-img-content {
+    border: none
+}
+
+body.contraste .navbar-mobile .navbar-toggle,
+body.contraste .navbar-mobile .navbar-toggle:hover,
+body.contraste .navbar-mobile .navbar-toggle:focus,
+body.contraste .btn-search-mobile,
+body.contraste .btn-search-mobile:hover,
+body.contraste .btn-search-mobile:focus,
+body.contraste .widget-aside-first .menu li.dropdown.open>.dropdown-menu,
+body.contraste .partners-item .thumbnail,
+body.contraste .overlay a.mybutton,
+body.contraste a.thumbnail:hover,
+body.contraste a.thumbnail:focus,
+body.contraste a.thumbnail.active,
+body.contraste .pgwSlideshow .ps-current .ps-prev,
+body.contraste .pgwSlideshow .ps-current .ps-next,
+body.contraste .widget-aside-first .menu li .dropdown-toggle.active,
+body.contraste .item-category-service .logo-service.logo-icon,
+body.contraste .list-services .service-item,
+body.contraste .item-media {
+    border-color: #fff333
+}
+
+body.contraste .panel-group-downloads .panel .painel-ativo .bottom-triangle,
+body.contraste .list-licitacoes .item-licitacao .painel-ativo .panel-title-downloads .bottom-triangle-default {
+    border-top-color: #fff333
+}
+
+body.contraste .pgwSlideshow .ps-nextIcon {
+    border-left-color: #fff333
+}
+
+body.contraste .pgwSlideshow .ps-prevIcon {
+    border-right-color: #fff333
+}
+
+body.contraste .widget .fb-post,
+body.contraste .pager li>span,
+body.contraste .gov-header {
+    border-color: #fff
+}
+
+body.contraste .navbar-header-mobile.open-search .search-mobile .search-form .input-group-btn .btn-default {
+    border-left: 1px solid #000
+}
+
+body.contraste .search-form .input-group-btn .btn-default {
+    border: 3px solid #000
+}
+
+body.contraste .triangle-1 {
+    border-top-color: #000
+}
+
+body.contraste .triangle-2,
+body.contraste li.central-content-item a:hover,
+body.contraste li.central-content-item a:focus,
+body.contraste li.central-content-item a:active {
+    border-bottom-color: #000
+}
+
+body.contraste .footer-bar-container .triangle-3 {
+    border-right-color: #000
+}
+
+body.contraste .gov-bar-container.mobile-content,
+body.contraste .footer-wrapper,
+body.contraste .pgwSlideshow .ps-list,
+body.contraste .credits {
+    border-top: 1px solid #fff
+}
+
+body.contraste .navbar-mobile,
+body.contraste .header-bar-container.mobile-content,
+body.contraste .gov-bar-container.mobile-content,
+body.contraste .cbp-spmenu h3,
+body.contraste .scroll-to-fixed-fixed.fixed-top-header,
+body.contraste .scroll-to-fixed-fixed .gov-header-accessibility,
+body.contraste .carousel-news .top-bar {
+    border-bottom: 1px solid #fff
+}
+
+body.contraste .carousel-news .top-bar .bottom-triangle {
+    border-top-color: #fff
+}
+
+body.contraste .bar,
+body.contraste .bottom-triangle-right {
+    border-left-color: #fff
+}
+
+body.contraste .cbp-spmenu-left.menu-open,
+body.contraste .bg-color-element,
+body.contraste .content-items-wrapper .items-wrapper .crsl-item,
+body.contraste .tag-title,
+body.contraste .pgwSlideshow,
+body.contraste .legend-photo,
+body.contraste .modal-content {
+    border: 1px solid #fff
+}
+
+body.contraste .widget-aside-first .menu>li.dropdown.open>.dropdown-menu,
+body.contraste .carousel-slider,
+body.contraste .album-wrapper .album-item .thumbnail,
+body.contraste .default-widget .thumbnail,
+body.contraste .panel-group-downloads .panel .panel-heading,
+body.contraste .item-category-service .logo-service img,
+body.contraste .agenda-item-container,
+body.contraste .gCalFlow .gcf-item-container-block,
+body.contraste a.item-inline-container {
+    border: 1px solid #fff333
+}
+
+body.contraste div.pp_default .pp_top .pp_left,
+body.contraste div.pp_default .pp_top .pp_right,
+body.contraste div.pp_default .pp_expand,
+body.contraste div.pp_default .pp_expand:hover,
+body.contraste div.pp_default .pp_contract,
+body.contraste div.pp_default .pp_contract:hover,
+body.contraste div.pp_default .pp_close,
+body.contraste div.pp_default .pp_nav .pp_play,
+body.contraste div.pp_default .pp_nav .pp_pause,
+body.contraste div.pp_default a.pp_arrow_previous,
+body.contraste div.pp_default a.pp_arrow_next,
+body.contraste div.pp_default .pp_bottom .pp_left,
+body.contraste div.pp_default .pp_bottom .pp_right {
+    background-image: url(//cdn.es.gov.br/scripts/jquery/jquery-prettyPhoto/3.1.6/images/prettyPhoto/default-contrast/sprite.png)
+}
+
+body.contraste div.pp_default .pp_next:hover {
+    background-image: url(//cdn.es.gov.br/scripts/jquery/jquery-prettyPhoto/3.1.6/images/prettyPhoto/default-contrast/sprite_next.png)
+}
+
+body.contraste div.pp_default .pp_previous:hover {
+    background-image: url(//cdn.es.gov.br/scripts/jquery/jquery-prettyPhoto/3.1.6/images/prettyPhoto/default-contrast/sprite_prev.png)
+}
+
+body.contraste div.pp_default .pp_gallery ul li a {
+    background-image: url(//cdn.es.gov.br/scripts/jquery/jquery-prettyPhoto/3.1.6/images/prettyPhoto/default-contrast/default_thumb.png);
+    border: 1px solid #aaa
+}
+
+body.contraste div.pp_default .pp_content_container .pp_left,
+body.contraste div.pp_default .pp_content_container .pp_right {
+    background-image: url(//cdn.es.gov.br/scripts/jquery/jquery-prettyPhoto/3.1.6/images/prettyPhoto/default-contrast/sprite_y.png)
+}
+
+body.contraste div.pp_default .pp_top .pp_middle,
+body.contraste div.pp_default .pp_bottom .pp_middle {
+    background-image: url(//cdn.es.gov.br/scripts/jquery/jquery-prettyPhoto/3.1.6/images/prettyPhoto/default-contrast/sprite_x.png)
+}
+
+body.contraste div.pp_default .pp_content .ppt {
+    color: #fff !important
+}
+
+body.contraste div.pp_default .pp_content {
+    background-color: #000;
+    border: 1px solid #fff333
+}
+
+body.contraste div.pp_default .pp_content_container .pp_details {
+    border-top: 1px solid #fff333
+}
+
+body.contraste div.pp_default .pp_content .pp_fade {
+    border-bottom: 1px solid #fff333
+}
+
+body.contraste div.pp_default #pp_full_res .pp_inline,
+body.contraste div.pp_default .pp_description,
+body.contraste div.pp_default .pp_nav .currentTextHolder {
+    color: #fff !important
+}
+
+body.contraste div.pp_default .pp_gallery ul li a:hover,
+body.contraste div.pp_default .pp_gallery ul li.selected a {
+    border-color: #fff333
+}
+
+body.contraste div.video .pp_arrow_next,
+body.contraste div.video .pp_arrow_previous,
+body.contraste div.video .pp_close {
+    background-image: url(//cdn.es.gov.br/scripts/jquery/jquery-prettyPhoto/3.1.6/images/prettyPhoto/video/sprite-contrast.png)
+}
+
+body.contraste .fa.video-play {
+    border: none;
+    text-decoration: none;
+    opacity: 1
+}
+
+body.contraste .parallelogram,
+body.contraste .parallelogram-1,
+body.contraste .col-gov-bar .secondary-bar-top {
+    background-color: #524f4f
+}
+
+body.contraste .col-gov-bar .secondary-bar-bottom {
+    background-color: #9a9a9a
+}
+
+body.contraste .trapezoid-1 {
+    border-top-color: #9a9a9a
+}
+
+body.contraste #col-gov-bar-center-id .col-gov-bar-navigation {
+    background-color: #1b1a1a
+}
+
+body.contraste .search-form .input-group-btn .btn-default {
+    padding-top: 4px
+}
+
+body.contraste .form-control,
+body.contraste .edit-item-content textarea {
+    background-color: #faffbd
+}
+
+body.contraste .cbp-spmenu a:active,
+body.contraste .cbp-spmenu .active a,
+body.contraste .cbp-spmenu .active a:hover {
+    font-family: 'OpenSans-Semibold', Arial, sans-serif;
+    text-decoration: underline
+}
+
+body.contraste .footer-bar-container .col-gov-bar-center .col-gov-bar-logo .diamond-effect {
+    border-top: 5px solid #202020
+}
+
+body.contraste .scroll-to-fixed-fixed.fixed-top-header,
+body.contraste .pgwSlideshow .ps-list {
+    box-shadow: none
+}
+
+body.contraste .pgwSlideshow .ps-list li img {
+    outline-color: #fff333
+}
+
+body.contraste a.close,
+body.contraste .item-category-service .logo-service i.prodesticons,
+body.contraste .list-services .service-item .prodesticons,
+body.contraste .list-services .service-item a,
+body.contraste .close,
+body.contraste li.central-content-item a,
+body.contraste a.item-inline-container {
+    text-shadow: none;
+    opacity: 1;
+    text-decoration: none
+}
+
+body.contraste a.item-inline-container:hover,
+body.contraste a.item-inline-container:focus,
+body.contraste a.item-inline-container:active {
+    background: none
+}
+
+body.contraste a.item-inline-container .item-inline {
+    text-decoration: underline
+}

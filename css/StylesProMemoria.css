@@ -1,0 +1,101 @@
+.corFundoClaro {
+    background-color: white;
+}
+
+/* Barra de acessibiliade*/
+.aces-header,
+.aces-header a {
+    text-decoration: none;
+    color: #585857;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+}
+
+.aces-header {
+    background-color: #CFCFCF;
+    border-bottom: 1px solid #CFCFCF;
+}
+
+.aces-header .row {
+    padding: 5px;
+}
+
+.aces-header .col-auto {
+    padding: 0;
+}
+
+.aces-header a {
+    display: block;
+    border: 2px solid #585857;
+    margin-right: 3px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 1px;
+}
+
+.aces-header a:hover {
+    background-color: #585857;
+    color: #CFCFCF;
+}
+
+/*Banner Governo Desktop*/
+/*Antigo gov-bar-container*/
+.banner-secretarias {
+    background-color: pink;
+    border: 2px solid #585857;
+}
+
+.espremendo {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: aquamarine;
+}
+
+.testeInline {
+    display: inline-block;
+}
+
+
+
+.BarraAzulComplementarCima {
+    float: left;
+    background-color: #006a88;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 60px;
+    top: -25px;
+    z-index: 2
+}
+
+.BarraAzulComplementarBaixo {
+    position: relative;
+    background-color: #006a88;
+    height: 60px;
+    width: 100%;
+    top: -25px;
+    z-index: 2
+}
+
+.bannerContainer {
+    width: 100%;
+    display: table;
+    background-color: brown;
+    border: solid black;
+}
+
+.bannerContainer .coluna {
+    display: table-cell;
+    height: 200px;
+}
+
+.principal div:first-child {
+    background: red;
+    width: 200px;
+}
+
+.principal div:last-child {
+    background: green;
+}

@@ -1,0 +1,95 @@
+dyn --> Não encontrei prodest1(nep1)
+
+detail-home --> com breadcrumb {display: none;}
+
+contents--> nep1
+
+thehomepage-layer 
+
+js--> nep1
+
+flexbox --> Acho que é tag do bootstrap --> nep1
+
+flexboxlegacy --> nep1
+
+canvas --> nep1
+
+canvastext --> nep1
+
+webgl --> nep1
+
+no-touch --> nep1
+
+geolocation --> nep1
+
+postmessage --> nep1
+
+no-websqldatabase --> nep1
+
+indexeddb --> nep1
+
+hashchange --> nep1
+
+history --> nep1
+
+draganddrop --> nep1
+
+websockets --> nep1
+
+rgba --> ué ? --> nep1
+
+hsla --> nep1
+
+multiplebgs --> nep1
+
+backgroundsize --> nep1
+
+borderimage --> nep1
+
+borderradius --> nep1
+
+boxshadow --> nep1
+
+textshadow --> nep1
+
+opacity --> ué? --> nep1
+
+cssanimations --> nep1
+
+csscolumns --> nep1
+
+cssgradients --> nep1
+
+no-cssreflections --> nep1
+
+csstransforms --> nep1
+
+csstransforms3d --> nep1
+
+csstransitions --> nep1
+
+fontface --> nep1
+
+generatedcontent --> nep1
+
+video --> nep1
+
+audio --> nep1
+
+localstorage --> nep1
+
+sessionstorage --> nep1
+
+webworkers --> nep1
+
+applicationcache --> nep1
+
+svg --> nep1
+
+inlinesvg --> nep1
+
+smil --> nep1
+
+svgclippaths --> nep1
+
+visible --> nep1
